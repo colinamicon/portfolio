@@ -4,10 +4,16 @@ li {
   width: 100px;
   text-align: center;
   position: relative;
-  left: 500px;
+  left: 450px;
 }
 
 nav {
   background-color: #d4d4d4;
   height: flex;
 }
+
+body {
+  font-family: 'Roboto';
+}
+
+

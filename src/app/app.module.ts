@@ -9,6 +9,9 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { ProjectsComponent } from './projects/projects.component';
+import { FooterComponent } from './footer/footer.component';
+import { SkillsComponent } from './skills/skills.component';
+import { ExperienceComponent } from './experience/experience.component';
 
 
 
@@ -19,6 +22,9 @@ import { ProjectsComponent } from './projects/projects.component';
     ToolbarComponent,
     WelcomeComponent,
     ProjectsComponent,
+    FooterComponent,
+    SkillsComponent,
+    ExperienceComponent,
   ],
   imports: [
     BrowserModule,
