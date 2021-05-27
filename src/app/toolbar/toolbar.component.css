@@ -1,20 +1,16 @@
 .mat-toolbar {
-  background-color: grey;
-  color: black;
-
-
+  color: white;
 }
 
 .icon {
-  background-color: grey;
   border-radius: 10px;
   display: inline-block;
   background-repeat: no-repeat;
+  color: white;
 
 }
 
 .spacer {
   flex: 1 1;
-
 }
 
