@@ -13,7 +13,9 @@ nav {
 }
 
 body {
+  background-image: linear-gradient(to right, #303030, #94f3ff, #ef9fff);
   font-family: 'Roboto';
+  text-transform: lowercase;
 }
 
 

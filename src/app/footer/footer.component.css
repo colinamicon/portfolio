@@ -1,18 +1,20 @@
 footer {
-  background-color: #fff3cb;
   width: 100%;
   height: 20vh;
-  border: 1px solid grey;
   text-align: center;
+  color: whitesmoke;
 }
 
 
 .spacer {
   display: inline-block;
   margin: 10px;
-  fill:  black;
 
-  /*add unclicked / clicked link colors */
 }
 
+/*add unclicked / clicked link colors */
 
+a {
+  color: whitesmoke;
+
+}
