@@ -1,19 +1,6 @@
-li {
-  border: 1px solid grey;
-  display: inline-block;
-  width: 100px;
-  text-align: center;
-  position: relative;
-  left: 450px;
-}
-
-nav {
-  background-color: #d4d4d4;
-  height: flex;
-}
-
 body {
   background-image: linear-gradient(to right, #303030, #94f3ff, #ef9fff);
+  height: auto;
   font-family: 'Roboto';
   text-transform: lowercase;
 }

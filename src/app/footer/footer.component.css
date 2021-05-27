@@ -2,7 +2,7 @@ footer {
   width: 100%;
   height: 20vh;
   text-align: center;
-  color: whitesmoke;
+  color: black;
 }
 
 
@@ -15,6 +15,6 @@ footer {
 /*add unclicked / clicked link colors */
 
 a {
-  color: whitesmoke;
+  color: black;
 
 }
