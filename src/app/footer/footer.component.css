@@ -5,3 +5,14 @@ footer {
   border: 1px solid grey;
   text-align: center;
 }
+
+
+.spacer {
+  display: inline-block;
+  margin: 10px;
+  fill:  black;
+
+  /*add unclicked / clicked link colors */
+}
+
+
