@@ -4,7 +4,7 @@ li {
   width: 100px;
   text-align: center;
   position: relative;
-  left: 800px;
+  left: 400px;
 }
 
 nav {
@@ -21,6 +21,9 @@ nav {
   position: relative;
   text-align: center;
   border: 1px solid white;
-  margin-top: 250px;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 5px 5px 5px black;
+  /*margin-top: 250px;*/
 }
 
