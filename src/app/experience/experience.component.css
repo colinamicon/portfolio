@@ -4,3 +4,10 @@
   /*border: 1px solid grey;*/
   text-align: center;
 }
+
+.resume_pic {
+  position: relative;
+  height: 33%;
+  width: 33%;
+  top: 0%;
+}

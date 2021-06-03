@@ -24,7 +24,7 @@ nav {
   height: 80%;
   width: 65%;
   position: relative;
-  /*text-align: center;*/
+  text-align: center;
   border: 1px solid white;
   border-radius: 20px;
   background-color: white;
@@ -33,9 +33,25 @@ nav {
   /*margin-top: 250px;*/
 }
 
+.resume {
+  height: 33%;
+  width: 20%;
+  position: relative;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 5px 5px 5px black;
+  position: absolute;
+  top: 10%;
+  right: 6%;
+}
+
+
+
 
 .socials {
-  height: 40%;
+  height: 33%;
   width: 20%;
   position: relative;
   text-align: center;
@@ -64,6 +80,21 @@ a {
   top: 95%;
 }
 
+.certs {
+  height: 33%;
+  width: 20%;
+  position: relative;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 5px 5px 5px black;
+  position: absolute;
+  top: 53%;
+  right: 6%;
+
+}
+
 
 .form-control {
   display: block;
@@ -81,17 +112,3 @@ a {
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
-.resume {
-  /*width: 100px;
-  height: 25%;
-  z-index: 1;*/
-
-}
-
-.resume_pic {
-  position: relative;
-  height: 33%;
-  width: 33%;
-  left: 100px;
-
-}
