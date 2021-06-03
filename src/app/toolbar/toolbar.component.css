@@ -1,15 +1,17 @@
 .mat-toolbar {
-  color: cyan;
+  color: #2290ff;
   position: fixed;
   top: 0%;
   z-index: 1;
+  background-color: black;
 
 
 }
 
 .button {
   margin: 2px;
-  color: cyan;
+  color: #2290ff;
+  background-color: black;
 }
 
 .spacer {

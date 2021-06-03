@@ -1,7 +1,14 @@
 .projects-main {
   width: 100%;
   height: 100vh;
-  border: 1px solid grey;
+  /*border: 1px solid grey;*/
+  background-color: black;
+  color: white;
+}
+
+.projects-spacer {
+  position: relative;
+  margin-bottom: 20px;
 }
 
 .projects-description {
@@ -12,6 +19,7 @@
 
 img {
   display: inline-block;
+  top: 33%;
   width: 80%;
   height: auto;
   margin: auto;

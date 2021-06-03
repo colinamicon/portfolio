@@ -2,7 +2,9 @@ footer {
   width: 100%;
   height: 20vh;
   text-align: center;
-  color: black;
+  color: white;
+  background-color: black;
+  /*background-image: linear-gradient(to bottom right, white, black);*/
 }
 
 
@@ -15,6 +17,6 @@ footer {
 /*add unclicked / clicked link colors */
 
 a {
-  color: black;
+  color: white;
 
 }
