@@ -21,10 +21,10 @@ nav {
 
 .about {
   top: 10%;
-  height: 50%;
+  height: 80%;
   width: 65%;
   position: relative;
-  text-align: center;
+  /*text-align: center;*/
   border: 1px solid white;
   border-radius: 20px;
   background-color: white;
@@ -79,4 +79,19 @@ a {
     border: 1px solid #ced4da;
     border-radius: .25rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.resume {
+  /*width: 100px;
+  height: 25%;
+  z-index: 1;*/
+
+}
+
+.resume_pic {
+  position: relative;
+  height: 33%;
+  width: 33%;
+  left: 100px;
+
 }

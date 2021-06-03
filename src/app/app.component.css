@@ -2,7 +2,7 @@ body {
   background-image: linear-gradient(to right, #303030, #94f3ff, #ef9fff);
   height: auto;
   font-family: 'Roboto';
-  text-transform: lowercase;
+  /* text-transform: lowercase;*/
 }
 
 
